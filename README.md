@@ -58,7 +58,7 @@ This project implements a multi-agent AI system that processes inputs in various
 4. Set up Redis and configure your `.env` file:
 
     ```env
-    REDIS_HOST=localhost
+    REDIS_HOST=
     REDIS_PORT=6379
     REDIS_DB=0
     REDIS_USERNAME=
