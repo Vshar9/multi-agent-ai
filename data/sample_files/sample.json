@@ -1,0 +1,24 @@
+{
+  "invoice_id": "INV-2025-0042",
+  "date": "2025-05-27",
+  "customer": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "company": "Acme Corp"
+  },
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 25.99
+    },
+    {
+      "description": "Mechanical Keyboard",
+      "quantity": 1,
+      "unit_price": 89.99
+    }
+  ],
+  "total": 141.97,
+  "currency": "USD",
+  "status": "Pending"
+}

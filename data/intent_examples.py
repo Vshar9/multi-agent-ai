@@ -1,0 +1,122 @@
+INTENT_EXAMPLES = {
+    "Invoice": [
+        "Please find attached the invoice for last month's services.",
+        "Attached is the billing statement for your review.",
+        "Invoice #2345 for your recent purchase is enclosed.",
+        "This is your payment receipt for the recent transaction.",
+        "Your invoice dated March 10 is now available.",
+        "We're sending over the invoice you requested.",
+        "The invoice has been generated and is attached.",
+        "Monthly bill for services rendered is attached.",
+        "Here is the invoice you asked for.",
+        "Kindly find your invoice in the attachment."
+    ],
+    "Request for Quotation (RFQ)": [
+        "Can you send us a quote for the following items?",
+        "We need a price quote for 100 units of your product.",
+        "Kindly provide a quotation for the attached specification.",
+        "Requesting a formal quotation for upcoming project.",
+        "Please quote us for the mentioned products.",
+        "We are interested in your pricing for bulk orders.",
+        "Need a quote for these services.",
+        "Quotation request for delivery within 2 weeks.",
+        "Looking for an estimate for these features.",
+        "We seek a proposal for the equipment listed."
+    ],
+    "Complaint": [
+        "I'm not happy with the service provided.",
+        "There is a recurring issue with your product.",
+        "We are dissatisfied with the delivery experience.",
+        "This is to raise a formal complaint.",
+        "The support team was unhelpful.",
+        "Product malfunctioned within days of purchase.",
+        "We’ve had repeated failures.",
+        "This is unacceptable service.",
+        "There is a defect in the received item.",
+        "We experienced long wait times for support."
+    ],
+    "Order Status": [
+        "Can you tell me when my order will arrive?",
+        "I want to check the status of my order.",
+        "When will my package be delivered?",
+        "Has my order been shipped yet?",
+        "Tracking says the order is delayed.",
+        "Is there an update on my shipment?",
+        "Where is my order currently?",
+        "Still waiting for my parcel to arrive.",
+        "Expected delivery date has passed.",
+        "Please confirm the order shipment."
+    ],
+    "Technical Support": [
+        "I need help with the setup process.",
+        "My device isn’t connecting to the network.",
+        "App installation failed on my phone.",
+        "System keeps showing an error.",
+        "Can someone assist with this issue?",
+        "Facing problems with your software.",
+        "Setup instructions are unclear.",
+        "The tool crashes frequently.",
+        "Connectivity issues with your product.",
+        "Need technical assistance urgently."
+    ],
+    "Feedback": [
+        "Just wanted to say great job!",
+        "Your team has been very helpful.",
+        "Loved the fast delivery.",
+        "Your product exceeded expectations.",
+        "App interface is very user-friendly.",
+        "I appreciate your customer support.",
+        "Website was easy to navigate.",
+        "Happy with the purchase experience.",
+        "Impressed by the quality.",
+        "Thanks for the excellent service."
+    ],
+    "Cancellation": [
+        "I’d like to cancel my order.",
+        "Please stop the shipment.",
+        "Cancel the subscription immediately.",
+        "Don’t want to proceed with the service.",
+        "Need to cancel the booking.",
+        "Stop auto-renewal of my plan.",
+        "I changed my mind about the order.",
+        "Want to withdraw my request.",
+        "Revoke my recent order.",
+        "End my service with immediate effect."
+    ],
+    "Return/Refund": [
+        "I want to return this product.",
+        "Requesting a refund for the recent order.",
+        "How do I initiate a return?",
+        "I returned the item but haven’t received refund.",
+        "What is the return policy?",
+        "Refund has not been credited yet.",
+        "Initiating return due to product issues.",
+        "Seeking reimbursement for defective item.",
+        "Expecting a full refund.",
+        "Return tracking shows item delivered."
+    ],
+    "Product Inquiry": [
+        "Do you have this item in stock?",
+        "Looking for more information about your product.",
+        "Does it come in other sizes?",
+        "How long does the battery last?",
+        "Is there a user manual available?",
+        "Need product specifications.",
+        "What colors are available?",
+        "Asking about compatibility with my device.",
+        "What are the dimensions of this item?",
+        "Is there a warranty on this product?"
+    ],
+    "Account Access": [
+        "I can’t log in to my account.",
+        "Forgot my password.",
+        "Unable to reset credentials.",
+        "Locked out of my account.",
+        "Need help accessing my profile.",
+        "My account is not accepting login.",
+        "Please assist with account recovery.",
+        "Getting authentication error.",
+        "Lost access to registered email.",
+        "Update my login information."
+    ]
+}
